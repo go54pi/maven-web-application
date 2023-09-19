@@ -104,8 +104,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>icicibank-snapshot-snapshot-marolix Nexus Repository</name>
-	      <url>http://15.207.14.75:9980/jyothsna/repository/icicibank-snapshot-snapshot-marolix/</url>
+	      <name>hdfcbank-pipeline-marolix Nexus Repository</name>
+	      <url>http://43.204.109.30:9980/jyothsna/repository/hdfcbank-pipeline-marolix</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
