@@ -104,9 +104,9 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>icicibank-snapshot Nexus Repository </name>
+	      <name>icicibank- snapshot Nexus Repository </name>
 	      <url>http://3.108.54.82:9980/jyothsna/repository/icicibank-/</url>
-	    </snapshotRepositorory>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
